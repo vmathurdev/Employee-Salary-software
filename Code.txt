@@ -1,4 +1,3 @@
-// Q-2 Programming test CDA, Saint Marys University, Nova Scotia, Canada
 // The below program calculates the employee's salaries based on their yearly performance as well as gives the summary statistics of employee
 
 
